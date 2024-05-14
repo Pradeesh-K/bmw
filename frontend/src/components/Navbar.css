@@ -1,0 +1,62 @@
+.component {
+    background-color: #ffffff;
+    width: 80%;
+    top: 0;
+    margin-left: 10%;
+  }
+  
+  .language {
+    color: #c5bd99;
+    font-family: "Lato", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    width: 120px;
+  }
+  .search-bar {
+    background-color: #c5bd99;
+    border-radius: 10px;
+    height: 39px;
+    width: 349px;
+  }
+  
+.search {
+    height: 45px;
+    width: 45px;
+  }
+  
+  .logo {
+    height: 55px;
+    width: 56px;
+    margin-right: 20px;
+  }
+.name {
+    height: 27px;
+    width: 366px;
+  }
+  
+ 
+  
+.HOME,  .ABOUT{
+    font-family: "Lato", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: underline;
+    margin-right: 20px;
+    
+  }
+  
+.HOME{
+  color: #000000;
+}
+
+.ABOUT {
+  color: #dcc7c7;
+}
+
+  
+
+

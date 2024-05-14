@@ -1,0 +1,55 @@
+.Footer {
+    background-color: #424242;
+    height: 135px;
+    width: 100%;
+  }
+
+  .Content {
+    background-color: #424242;
+    height: 100%;
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+    bottom: 0;
+  }
+
+  .name {
+    color: #ffffff;
+    font-family: "Gothic A1", Helvetica;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: 38px;
+    white-space: nowrap;
+    width: 366px;
+  }
+  
+.logo {
+    height: 55px;
+    width: 56px;
+  }
+  
+  
+.icons {
+    height: 40px;
+    width: 40px;
+    margin-right: 10px;
+  }
+  
+  .links {
+    all: unset;
+    box-sizing: border-box;
+    color: #c5bd99;
+    font-family: "Inter", Helvetica;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+    white-space: nowrap;
+    margin-right: 10px;
+  }
+  
+
+  
